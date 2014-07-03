@@ -1,5 +1,8 @@
 NMU-CS442-Threads
 =================
+<b>Northern Michigan University<br />
+Advanced Network Programming<br />
+Author:</b> Robert Fugate<br />
 
 1. <b>Threads_PI.cc:</b><br />
 Purpose: This assignment uses threads to compute PI using the dart-throwing method<br />
